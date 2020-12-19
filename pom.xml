@@ -76,7 +76,7 @@
         <!-- common JDBC driver versions -->
         <derby.version>10.14.2.0</derby.version>
         <hsqldb.version>2.4.1</hsqldb.version>
-        <mysql.connector.version>5.1.47</mysql.connector.version>
+        <mysql.connector.version>8.0.16</mysql.connector.version>
         <mariadb.connector.version>2.2.0</mariadb.connector.version>
         <postgresql.connector.version>42.2.5</postgresql.connector.version>
         <mssql.connector.version>7.2.1</mssql.connector.version>
